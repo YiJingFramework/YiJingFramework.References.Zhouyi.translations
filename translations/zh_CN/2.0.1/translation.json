@@ -1,6 +1,9 @@
-﻿// The translation is mainly downloaded from:
+﻿// Target Package Version: 2.0.1
+// 
+// The translations are mainly downloaded from:
 // http://www.ziyexing.com/files-5/zhouyi/zhouyi_index.htm
-// Current Package Version: 2.0.1.
+// and arranged by yueyinqiu5990.
+// The translations haven't been checked manually.
 
 {
   // The translations for trigrams.
@@ -467,11 +470,11 @@
         "Text": "亨。小利有所往。",
         "Lines": [
           "贲其趾，舍车而徒。",
-          "贲其须。象曰：贲其须，与上兴也。",
-          "贲如濡如，永贞吉。象曰：永贞之吉，终莫之陵也。",
-          "贲如皤如，白马翰如，匪寇婚媾。象曰：六四，当位疑也。匪寇婚媾，终无尤也。",
-          "贲于丘园，束帛戋戋，吝，终吉。象曰：六五之吉，有喜也。",
-          "白贲，无咎。象曰：白贲无咎，上得志也。"
+          "贲其须。",
+          "贲如濡如，永贞吉。",
+          "贲如皤如，白马翰如，匪寇婚媾。",
+          "贲于丘园，束帛戋戋，吝，终吉。",
+          "白贲，无咎。"
         ]
       },
       {
@@ -550,7 +553,7 @@
         "Name": "坎",
         "Text": "习坎，有孚，维心亨，行有尚。",
         "Lines": [
-          "习坎，入于坎窞，凶。象曰：习坎入坎，失道凶也。",
+          "习坎，入于坎窞，凶。",
           "坎有险，求小得。",
           "来之坎坎，险且枕，入于坎窞，勿用。",
           "樽酒簋贰，用缶，纳约自牖，终无咎。",
